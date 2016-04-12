@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">装逼表情包</string>
+    <string name="search">搜索</string>
+    <string name="hint">点击右上角搜索按钮，\n即可开始装逼！</string>
+</resources>
